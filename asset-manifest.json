@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/casperlabs-exercise/static/css/main.491e4ffb.css",
+    "main.js": "/casperlabs-exercise/static/js/main.5d30eefa.js",
+    "index.html": "/casperlabs-exercise/index.html",
+    "main.491e4ffb.css.map": "/casperlabs-exercise/static/css/main.491e4ffb.css.map",
+    "main.5d30eefa.js.map": "/casperlabs-exercise/static/js/main.5d30eefa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.491e4ffb.css",
+    "static/js/main.5d30eefa.js"
+  ]
+}
